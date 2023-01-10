@@ -1,6 +1,8 @@
 # SystemeDeRecommandation
 Système De Recommandation dans la plateforme YELP en utilisant Python et Neo4j
 
+## Introduction générale
+
 De nos jours, nous remarquons l'existence de plusieurs sites participatifs dans lesquels, des utilisateurs de la plateforme partage des avis qui 
 concernent différents business tels que des restaurants, des commerciaux,
 des écoles et des établissements locaux. Parmi ces sites, on cite Yelp
